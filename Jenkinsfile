@@ -10,7 +10,7 @@ pipeline {
 
   stages {
   
-      stage('Hello test1 new branch created updated token') {
+      stage('Hello test1 created updated token') {
 
       steps {
 
