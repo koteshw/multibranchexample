@@ -10,7 +10,7 @@ pipeline {
 
   stages {
   
-      stage('Hello test1') {
+      stage('Hello test1 new branch created') {
 
       steps {
 
